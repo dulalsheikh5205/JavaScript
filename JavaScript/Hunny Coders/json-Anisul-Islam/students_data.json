@@ -1,0 +1,53 @@
+{
+
+    
+"students" : [
+
+    // objet কখন use হয় যখন key:value pair থাকে,তখন হয়,
+// অনেকগুলা values থাকলে, array তে রাখতে হবে,
+
+{
+    "name" : "Dulal Sheikh",
+    "middleName" : null,
+    "age" : 28,
+    "cgpa" : 3.03,
+    "isRegistered" : true,
+    "languages" : ["Bangla","English","japanese"],
+    "friends" : [
+        {
+            "name" : "mahmudul",
+            "age" : 27
+        },
+        {
+            "name" : "Rasel",
+            "age" : 29
+        }
+    ]
+},
+// এরপর second row এর কাজ করতে হবে,
+{
+    "name" : "Rabeya Begum",
+    "middleName" : null,
+    "age" : 30,
+    "cgpa" : 3.92,
+    "isRegistered" : false,
+    "languages" : ["Bangla","English","finnish","hindi"],
+    "friends" : [
+        {
+            "name" : "shakila",
+            "age" : 24
+        },
+        {
+            "name" : "jumur",
+            "age" : 26
+        }
+    ]
+}
+
+/* এদের কে আবার collection এর মধ্যে রাখতে হবে, মানে array তে রাখতে হবে, একটা array এর নাম দিতে হবে,*/
+
+]
+
+// array এর মধ্যে object গুলা রাখার পর, json format এ কাজ করলে, পুরা টা কে অবশ্যই {} curly bracket এর মধ্যে রাখতে হবে,
+
+}

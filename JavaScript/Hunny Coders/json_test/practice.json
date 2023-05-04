@@ -1,0 +1,42 @@
+{
+    "students":[
+        {
+            "name":"dulal",
+        "middleName":null,
+        "age":85,
+        "cgpa":3.54,
+        "isRegistered":true,
+        "languages":["Bengali","English","japannese"],
+        "friends":[
+            {
+                "name":"tuhin",
+                "age":28
+            },
+            {
+                "name":"manus",
+                "age":58
+            }
+        ]
+        
+        },
+        {
+            "name":"jamal",
+        "middleName":null,
+        "age":815,
+        "cgpa":3.544,
+        "isRegistered":true,
+        "languages":["Bengali","arabic","English","japannese"],
+        "friends":[
+            {
+                "name":"man1",
+                "age":86
+            },
+            {
+                "name":"man2",
+                "age":95
+            }
+        ]
+        
+        }
+    ]
+}
